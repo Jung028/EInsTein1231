@@ -2,6 +2,7 @@
 - 👀 I’m interested in sports, music, and coding!
 - 🌱 I’m currently learning how to create websites 
 - 💞️ I’m looking to collaborate on interactive web pages
+- ✨ Aspiring Software Engineer 
 - 📫 How to reach me aedamjung@gmail.com
 
 <!---
